@@ -79,7 +79,7 @@
   ],
   // Environment variables (non-secret)
   "vars": {
-    "APP_URL": "https://prism.siiway.org",
+    "APP_URL": "https://auth.ffurry.cc.cd",
     // Comma / semicolon / whitespace separated list of usernames
     // that cannot be deleted. Leave empty to disable.
     "LOCKDOWN_USERS": "",
@@ -99,7 +99,7 @@
   },
   "routes": [
     {
-      "pattern": "xfan.ccwu.cc",
+      "pattern": "ffurry.cc.cd",
       "custom_domain": true,
     },
   ],
