@@ -99,7 +99,7 @@
   },
   "routes": [
     {
-      "pattern": "prism.siiway.org",
+      "pattern": "xfan.ccwu.cc",
       "custom_domain": true,
     },
   ],
